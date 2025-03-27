@@ -23,7 +23,7 @@ plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.show()
 ```
 #### **Generated Chart:**
-![Data Processing Efficiency](assets/data_processing_efficiency.png)
+![Data Processing Efficiency](data_processing_efficiency.png)
 
 ---
 
