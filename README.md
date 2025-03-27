@@ -10,8 +10,8 @@ This project provides a scalable, high-performance, and secure data processing p
 - **🛠️ Reliable** - Implements failure recovery and redundancy.  
 
 ## 🏗️ Architecture  
-![Architecture Diagram](systemArchitectureDiagram.png)
-![Workflow Diagram](DataProcessingWorkflow.png)  
+![Architecture Diagram](architecture-diagram.png)
+![Workflow Diagram](workflow-diagram.png)  
 
 ## 🔧 Installation  
 ```bash
