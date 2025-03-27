@@ -44,7 +44,7 @@ plt.grid(True)
 plt.show()
 ```
 #### **Generated Chart:**
-![Model Accuracy Trend](assets/model_accuracy_trend.png)
+![Model Accuracy Trend](model_accuracy_trend.png)
 
 ---
 
