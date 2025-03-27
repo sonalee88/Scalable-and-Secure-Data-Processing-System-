@@ -55,8 +55,8 @@ plt.show()
 4. **Visualization:** Created bar and line charts for insights.  
 
 ## **4. Assets Folder**
-- `/assets/data_processing_efficiency.png`
-- `/assets/model_accuracy_trend.png`
+- `data_processing_efficiency.png`
+- `model_accuracy_trend.png`
 
 ---
 
